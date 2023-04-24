@@ -3,7 +3,7 @@
 	"name": "MyAppName",
 	"scope": "/",
 	"display": "standalone",
-	"start_url": "https://MYWEBSITE.com",
+	"start_url": "https://idyllic-axolotl-86683b.netlify.app/",
 	"short_name": "MyAppName",
 	"theme_color": "transparent",
 	"description": "This is a PWA",
@@ -25,6 +25,6 @@
 			"purpose": "maskable any"
 		}
 	],
-	"url": "https://MYWEBSITE.com",
+	"url": "https://idyllic-axolotl-86683b.netlify.app/",
 	"screenshots": []
 }
